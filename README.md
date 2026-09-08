@@ -37,7 +37,7 @@ Heart-Disease-Prediction-RF/
 
 ---
 
-## 💻 **Running the Streamlit App**
+##  **Running the Streamlit App**
 
 ### **Local Execution**
 
@@ -52,7 +52,7 @@ This opens:
 
 ---
 
-## 🌐 **Streamlit Cloud Deployment**
+##  **Streamlit Cloud Deployment**
 
 The app can be deployed at
 `https://hexacore.streamlit.app/`
@@ -75,7 +75,7 @@ It displays updated metrics and feature importance instantly.
 
 ---
 
-## 👨‍💻 **Tech Stack**
+##  **Tech Stack**
 
 * **Python**
 * **Pandas, NumPy**
@@ -87,7 +87,7 @@ It displays updated metrics and feature importance instantly.
 ---
 
 
-## 🏁 **Conclusion**
+##  **Conclusion**
 
 This project successfully demonstrates a complete ML workflow for medical prediction tasks.
 The model performs well, aligns with clinical expectations, and the Streamlit app enhances usability and interpretability.
